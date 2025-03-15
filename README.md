@@ -86,7 +86,9 @@ COL name VAL Grace North Edinburgh COL latitude VAL 55.96494943189891 COL longit
 3. 加上draw.py
 - 将日志文件中的训练loss与acc可视化
 
-# nanoGeo-ER
+### 实验结果
+![alt text](image.png)
+
 
 
 # nanoGeo-ER
